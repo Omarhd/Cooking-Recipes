@@ -8,7 +8,7 @@
 
 import Foundation
 
-struct FoodCat {
+struct FoodCategory {
     let title : String
     let imageName : String
 }
